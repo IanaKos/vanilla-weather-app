@@ -40,3 +40,19 @@ li:first-letter {
   border: 1px solid #dadde1;
   border-radius: 5px;
 }
+.overview {
+  margin-bottom: 20px;
+}
+.weather-temperature img {
+  margin-right: 15px;
+}
+.weather-temperature strong {
+  color: blue;
+  font-weight: 600;
+  font-size: 64px;
+}
+.weather-temperature.units {
+  position: relative;
+  font-size: 10px;
+  top: -15px;
+}
